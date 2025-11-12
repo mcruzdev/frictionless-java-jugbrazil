@@ -1,7 +1,8 @@
-# Brazil JUG (Frictionless Java: Quarku)
+# Brazil JUG (Frictionless Java: Explorando o Quarkus, do Zero ao Deploy)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oGZuz5vPtww?si=QozNI4RXMuVNfc27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Frictionless Java](https://img.youtube.com/vi/oGZuz5vPtww/0.jpg)](https://www.youtube.com/watch?v=oGZuz5vPtww)
 
+Este repositório contém o código fonte do workshop "Frictionless Java: Explorando o Quarkus, do Zero ao Deploy" apresentado no Brazil JUG.
 
 ## Criando um cluster kubernetes com KinD
 
